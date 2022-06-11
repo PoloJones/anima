@@ -1,0 +1,57 @@
+.landingRoot {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.landing {
+  background-color: #7b9e89;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 37px;
+  align-items: center;
+  padding: 238px 54px 335px 55px;
+}
+.element1 {
+  height: 721px;
+  position: relative;
+  min-width: 917px;
+}
+.homemadeTastes {
+  text-align: center;
+  width: 917px;
+  height: 721px;
+  font-size: 158px;
+  font-family: Libre Baskerville;
+  color: #f0a202;
+  position: absolute;
+  white-space: pre-wrap;
+}
+.login1 {
+  width: 303px;
+  height: 130px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 591px;
+  left: 307px;
+  border-radius: 10px;
+}
+.signUp1 {
+  width: 303px;
+  height: 130px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
